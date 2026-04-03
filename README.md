@@ -31,7 +31,7 @@
 
 
   ### 5. مسألة Again Twenty Five! 
-* **رابط المسألة (العام):** [اضغط هنا](https://codeforces.com/problemset/problem/630/A)
+* **رابط المسألة (العام):** [https://codeforces.com/problemset/problem/630/A]
 * **كودي على GitHub:** [Again_Twenty_Five.cpp](./Again_Twenty_Five.cpp)
 
 #### 💡 الخبرة اللي بنقلها لك:
