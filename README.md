@@ -144,8 +144,8 @@
 
 
 ### ### 10. مسألة Sticks 🥢 (حرف B)
-** * رابط المسألة (الجروب): ** [Codeforces - Sticks](https://codeforces.com/group/3MTZPM7hcC/contest/643344/problem/B)
-** * كودي على GitHub: ** [Sticks.cpp](./Sticks.cpp)
+** * رابط المسألة (الجروب): ** [Codeforces - Sticks](https://codeforces.com/group/3MTZPM7hsC/contest/643344/problem/B)
+
 
 #### 💡 الخبرة اللي بنقلهالك
 - **المشكلة:** المسألة بتديك أطوال 3 عصيان، وعايزة تعرف هل ينفع نكون بيهم مثلث ولا لأ.
