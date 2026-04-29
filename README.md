@@ -133,7 +133,7 @@
 
 ### ### 9. مسألة Almost rectangle 📐
 ** * رابط المسألة (الجروب): ** [Codeforces - Almost rectangle](https://codeforces.com/group/3MTZPM7hsC/contest/643344/problem/A)
-** * كودي على GitHub: ** [Almost_rectangle.cpp](./Almost_rectangle.cpp)
+
 
 #### 💡 الحل
 - **المشكلة:** المسألة بتديك أبعاد شكل (شبه منحرف قائم) وعايزك تحسب المساحة بتاعته.
