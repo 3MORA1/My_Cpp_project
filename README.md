@@ -132,10 +132,10 @@
 
 
 ### ### 9. مسألة Almost rectangle 📐
-** * رابط المسألة (الجروب): ** [Codeforces - Almost rectangle](https://codeforces.com/group/3MTZPM7hcC/contest/643344/problem/A)
+** * رابط المسألة (الجروب): ** [Codeforces - Almost rectangle](https://codeforces.com/group/3MTZPM7hsC/contest/643344/problem/A)
 ** * كودي على GitHub: ** [Almost_rectangle.cpp](./Almost_rectangle.cpp)
 
-#### 💡 الخبرة التي ينقلها لك:
+#### 💡 الحل
 - **المشكلة:** المسألة بتديك أبعاد شكل (شبه منحرف قائم) وعايزك تحسب المساحة بتاعته.
 - **الزتونة:** الفكرة إننا بنقسم الشكل لمستطيل (مساحته `b * c`) ومثلث قائم (مساحته `0.5 * (a - c) * d`). وبنجمعهم عشان نجيب المساحة الكلية.
 - **تريك الـ 6 أصفار:** المسألة شرطت إن النتيجة تظهر بـ 6 أرقام عشرية بالضبط. عشان تعمل ده في C++ بنستخدم السطر ده:
